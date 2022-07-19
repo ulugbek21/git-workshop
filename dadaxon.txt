@@ -1,2 +1,7 @@
 my name is Dadaxon 
+<<<<<<< HEAD
 i am 17 years old !!!
+=======
+i am 17 years old !!!! 
+yunusabadskiy daddy
+>>>>>>> 6c0ca503df5469e58332b275ba11fe2b30a9876b
